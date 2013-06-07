@@ -80,7 +80,7 @@ class TrafficController < Observer
 
 		while true
 
-			puts "\n\nPress any key to change light... <enter>\n"
+			puts "\nPress any key to change light... <enter>\n"
 			gets.chomp
 
 			puts "Status:\nTraffic Light 1:\n"
